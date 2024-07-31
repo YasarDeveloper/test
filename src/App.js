@@ -2,7 +2,7 @@ import React from 'react';
 import axios from 'axios';
 
 const linkedInClientId = '860a7kmprfcphv';
-const redirectUri = 'http://localhost:3001/';   
+const redirectUri = 'https://test-six-ashen-27.vercel.app/';   
 
 const App = () => {
   const handleLinkedInLogin = () => {
